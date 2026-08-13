@@ -1,17 +1,42 @@
-# René Pincus – Baum- & Landschaftspflege
+# René Pincus – Unternehmenskontext
 
-Standortbezug:
-Kamen, Unna, Dortmund, Bergkamen, Schwerte, Hamm, Lünen, Iserlohn.
+## Unternehmen
+
+René Pincus – Baum- & Landschaftspflege
+
+## Standortbezug
+
+- Kamen
+- Unna
+- Dortmund
+- Bergkamen
+- Schwerte
+- Hamm
+- Lünen
+- Iserlohn
+
+## Digitalisierung
 
 Schwerpunkte:
-- GaLaBau
-- Baumpflege
+
 - Online-Marketing
-- SEO
+- lokale SEO
 - Recruiting
 - Employer Branding
-- Digitalisierung
+- digitale Büroorganisation
+- Kundenverwaltung
+- Baustellenverwaltung
+- Zeiterfassung
+- Angebote
+- Aufträge
+- Rechnungen
 - KI
 - Automatisierung
 
-Ziel: Professionalisierung und Skalierung des Unternehmens.
+## Strategisches Ziel
+
+Das Unternehmen soll digital skalierbar aufgebaut werden.
+
+Langfristige Zielgröße:
+
+etwa 1.000.000 € Jahresumsatz.
